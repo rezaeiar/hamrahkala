@@ -81,6 +81,9 @@ const config: Config = {
                 'iransans-extrabold': 'IRANSans-ExtraBold',
             },
         },
+        container: {
+            center: true
+        }
     },
     plugins: [],
 };
