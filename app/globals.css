@@ -43,3 +43,7 @@
         src: url(../public/fonts/IRANSans/IRANSans_Black.ttf);
     }
 }
+
+.bg-pattern {
+    background: #F12B43 url(../public/images/patterns/pattern.svg);
+}

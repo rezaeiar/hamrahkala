@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import React from 'react'
 
-export default function ProductSliderHeader() {
+export default function ProductsSliderHeader() {
     return (
         <div className=''>
             <div className="container">
