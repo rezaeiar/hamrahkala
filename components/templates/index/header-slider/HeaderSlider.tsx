@@ -21,7 +21,7 @@ export default function HeadetSlider() {
             }}
             navigation={true}
             modules={[Autoplay, Pagination, Navigation]}
-            className="mySwiper gap-0"
+            className="mySwiper gap-0 w-full"
         >
             <SwiperSlide>
                 <div className="h-80">
