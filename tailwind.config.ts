@@ -29,16 +29,7 @@ const config: Config = {
                     40: '#D9E4FF',
                     30: '#ECF2FF',
                 },
-                secondary: {
-                    100: '#6E0BD4',
-                    90: '#8125DF',
-                    80: '#9645E9',
-                    70: '#A75EF1',
-                    60: '#B97FF3',
-                    50: '#D8B1FF',
-                    40: '#E9D3FF',
-                    30: '#F4E9FE',
-                },
+                secondary: '#1c39bb',
                 red: {
                     101: '#F0142F',
                     90: '#F12B43',
