@@ -3,7 +3,7 @@ import React from 'react'
 
 export default function TopBar() {
     return (
-        <div className='bg-secondary text-white'>
+        <div className='bg-general-100 text-white'>
             <div className="container">
                 <div className="flex items-center justify-between px-4 gap-8 h-14 text-xs">
                     <div className="flex gap-6 items-center grow">
